@@ -48,7 +48,7 @@ The `.so` will **not** load under other Python versions or architectures.
 ## Installation
 
 ```bash
-git clone <repo-url> && cd OCC_Planner
+git clone https://github.com/TeleYuhao/OTC-Planner.git && cd OTC-Planner
 pip install -r requirements.txt
 ```
 
