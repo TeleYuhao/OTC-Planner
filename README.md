@@ -29,7 +29,11 @@
 
 > The Hybrid A\* core relies on a **prebuilt C++ pybind11 module**. Only the compiled `.so` (CPython 3.9, x86\_64 Linux) is distributed — the C++ source is not included.
 
-https://github.com/user-attachments/assets/f7f36631-6a35-49a1-ad83-ec547cfef6fb
+[
+
+<video src="Figure/OTC_Planner.mp4" width="80%" controls></video>
+
+](url)
 
 ---
 
