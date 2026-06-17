@@ -28,9 +28,13 @@
 | **OTCSmoother** | NLP-based trajectory refinement via CasADi + IPOPT; respects vehicle dynamics, collision corridors, and control limits. |
 
 > The Hybrid A\* core relies on a **prebuilt C++ pybind11 module**. Only the compiled `.so` (CPython 3.9, x86\_64 Linux) is distributed — the C++ source is not included.
-<div align="center">
-  <video src="Figure/OTC_Planner.mp4" width="80%" controls autoplay loop muted></video>
-</div>
+<p align="center">
+  <a href="https://github.com/TeleYuhao/OTC-Planner/raw/main/Figure/OTC_Planner.mp4">
+    <img src="Figure/teaser_case1.gif" width="80%" alt="OTC Planner Demo - click for video"/>
+  </a>
+  <br>
+  <em>⬆ Click the GIF to watch the full demo video (4.4 MB MP4) ⬆</em>
+</p>
 ---
 
 ## ⚠️ Platform Requirement
