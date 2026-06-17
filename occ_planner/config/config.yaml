@@ -1,0 +1,21 @@
+## hybrid cost
+  cost_gear: 1
+  cost_heading_change: 0.5
+  cost_scale: 10
+
+  ShotDistance: 15 #m
+  SegmentLength: 1.6 #m
+  SteeringDiscreteNum: 1 # 单侧转向离散数量
+  Steering: 1.5
+  SteeringChange: 1.5
+  DirectionChange: 2
+  BackWard: 1
+  # Steering: 0.5
+  # SteeringChange: 3
+  # BackWard: 1
+  StepSize: 0.1 #m
+  # TieBreaker: 1.00001
+  TieBreaker: 1.01
+  MaxSteering: 0.75
+
+

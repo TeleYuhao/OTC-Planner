@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+results/PlanningRes/*.npy
+results/Smooth_Res/*.npy
